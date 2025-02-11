@@ -74,11 +74,11 @@ select {
 
 .frameworks-list {
     list-style: none url("assets/images/Marker.svg");
-    padding: 0 0 0 20px;
+    padding: 0 20px;
 }
 
 .books-list {
-    padding: 0 0 0 20px;
+    padding: 0 20px;
 }
 
 .label {
@@ -90,6 +90,7 @@ select {
     border-radius: 5px;
     width: 330px;
     padding: 9px 12px 8px;
+    font-size: 16px;
     background: rgba(255, 255, 255, 0);
 }
 
@@ -114,11 +115,11 @@ select {
 table {
     border-collapse: collapse;
     border: 1px solid #95a1bb;
+    font-size: 14px;
 }
 
 th, td {
-    padding: 10px 15px;
-    font-size: 14px;
+    padding: 12px 15px;
 }
 
 footer {
